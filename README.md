@@ -2,6 +2,12 @@
 
 -  I'm Currently learning Python and competitive programming 
 -  I'm  Interseted in Web hacking and security
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/rahul-nakum14/count.svg)
+![GitHub Views](https://komarev.com/ghpvc/?username=rahul-nakum14&color=FAC151)][1]
+![GitHub Views](https://komarev.com/ghpvc/?username=rahul-nakum14) -->
+<img src="https://komarev.com/ghpvc/?username=your-github-rahul-nakum14&style=flat-square&color=blue" alt=""/>
+
 ### Languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
