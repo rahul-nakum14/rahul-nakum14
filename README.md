@@ -1,7 +1,7 @@
 <h3>Hi,There 👋</h3>
 
 -  I'm Currently working as a software Engineer.
--  I'm  Interseted in Web hacking and security.
+
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/rahul-nakum14/count.svg)
 ![GitHub Views](https://komarev.com/ghpvc/?username=rahul-nakum14&color=FAC151)][1]
