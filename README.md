@@ -1,26 +1,36 @@
-<h3>Hi,There 👋</h3>
+# Hello, I'm Rahul Nakum 👋
 
--  I'm Currently working as a software Engineer.
+## About Me
+I'm a passionate **BAckend Developer** with a keen interest in **Cybersecurity**. With a knack for building efficient, secure web applications and a commitment to continuous learning, I'm always ready to tackle the next tech challenge.
+
+## Skills
+- **Languages**: JavaScript (Node.js), HTML, CSS
+- **Frameworks**: Express.js, React.js, Django, Rest FrameWork
+- **Databases**: MongoDB, MySQL,Postgresql
+- **Cybersecurity**: Network security, Threat analysis, Penetration testing,Owasp Top 10
+
+## Projects
+- **[Blogify](https://github.com/rahul-nakum14/blogify)**: A Node.js application that Manages the blogs and handles the secure authentication built with (Node.js,Ejs & MongoDb) ...
+- **[Django Based User System](https://github.com/rahul-nakum14/django-User-system)**: Django Based User System For Creating and managing user posts.
+- **[College mangement system](https://github.com/rahul-nakum14/College-Managment-System)**: Php based college managment project to automate and make easier college tasks.
+- **[Imadb Scrapper](https://github.com/rahul-nakum14/Imdbscrapper)**: Python Script which uses BeautifulSoap for scrapping IMDB ratings.
+- **[Pygit](https://github.com/rahul-nakum14/PyGit/)**: An open-source Python tool designed to emulate the functionality of the Git version control system...
+
+## Tech Stack
+[<img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />](https://nodejs.org/)
+[<img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />](https://expressjs.com/)
+[<img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />](https://reactjs.org/)
+[<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />](https://www.docker.com/)
+[<img src="https://img.shields.io/badge/Redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />](https://redis.io/)
+[<img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />](https://www.djangoproject.com/)
+[<img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />](https://www.postgresql.org/)
+[<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />](https://www.mongodb.com/)
+[<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com/)
 
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/rahul-nakum14/count.svg)
-![GitHub Views](https://komarev.com/ghpvc/?username=rahul-nakum14&color=FAC151)][1]
-![GitHub Views](https://komarev.com/ghpvc/?username=rahul-nakum14) -->
-<img src="https://komarev.com/ghpvc/?username=your-github-rahul-nakum14&style=flat-square&color=blue" alt=""/>
+![Rahul Nakum github stats](https://github-readme-stats.vercel.app/api?username=rahul-nakum14&show_icons=true&theme=dracula)
 
-### Languages:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-
-### Tools and Technologies
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
-
-### Connect with me:
-
+## Connect with Me ⭐️
+[<img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/rahulnakum/) 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/Rahul__Nakum) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/rahulnakum)
+
