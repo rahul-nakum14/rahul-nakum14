@@ -1,7 +1,7 @@
 # Hello, I'm Rahul Nakum 👋
 
 ## About Me
-I'm a passionate **BAckend Developer** with a keen interest in **Cybersecurity**. With a knack for building efficient, secure web applications and a commitment to continuous learning, I'm always ready to tackle the next tech challenge.
+I'm a passionate **Backend Developer** with a keen interest in **Cybersecurity**. With a knack for building efficient, secure web applications and a commitment to continuous learning, I'm always ready to tackle the next tech challenge.
 
 ## Skills
 - **Languages**: JavaScript (Node.js), HTML, CSS
