@@ -4,8 +4,8 @@
 I'm a passionate **Backend Developer** with a keen interest in **Cybersecurity**. With a knack for building efficient, secure web applications and a commitment to continuous learning, I'm always ready to tackle the next tech challenge.
 
 ## Skills
-- **Languages**: JavaScript (Node.js), HTML, CSS, TypeScript
-- **Frameworks**: Express.js, React.js, Django, Rest Framework
+- **Languages**: JavaScript (Node.js), HTML, CSS, TypeScript, Graphql
+- **Frameworks**: Express.js, React.js, Django, Rest Framework,Nest.js
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Tools & Technologies**: Docker, Git, Redis
 - **Cybersecurity**: Network security, Threat analysis, Penetration testing, Owasp Top 10
@@ -33,6 +33,10 @@ I'm a passionate **Backend Developer** with a keen interest in **Cybersecurity**
 [<img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/)
 [<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
 [<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />](https://nestjs.com/)
+[<img src="https://img.shields.io/badge/GraphQL-E10098?&style=for-the-badge&logo=graphql&logoColor=white" />](https://graphql.org/)
+
+
 
 ![Rahul Nakum github stats](https://github-readme-stats.vercel.app/api?username=rahul-nakum14&show_icons=true&theme=dracula)
 
